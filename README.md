@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://postaly.cl">
     <img src="https://postaly.cl/img/postaly-title.webp"  title="Postaly" alt="Postaly" >
+</a>    
 </p>
 
 <br/>
@@ -12,7 +14,15 @@ Postaly was born out of the need to find postal codes in Chile in a free, fast, 
 
 Quickly find postal codes for any location with our interactive map!
 
-[Postaly](https://postaly.cl)
+<br/>
+
+<h1 align="center">
+<a href="https://postaly.cl">
+  <img src="https://postaly.cl/img/postaly-title.webp"  title="Postaly" alt="Postaly" >
+</a>
+</h1>
+
+<br/>
 
 ---
 
