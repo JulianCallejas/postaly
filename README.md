@@ -1,11 +1,8 @@
 <p align="center">
-    <img src="https://postaly.cl/img/logo-letter-120.webp"  title="Postaly" alt="Postaly" >
+    <img src="https://postaly.cl/img/postaly-title.webp"  title="Postaly" alt="Postaly" >
 </p>
-<br/>
 
-<h1 align="center">
-    Postaly
-</h1>
+<br/>
 
 <p align="center">
 <img src="https://postaly.cl/img/postaly-social-share-dark.png"  title="Toggle Word Quest screen" alt="Toggle Word Quest screen" >
